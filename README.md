@@ -27,3 +27,4 @@ Following are some of the salient features of the android application are :
  
 *Besides these features,using firebase authentication services and firebase database services helps us to make transactions of data and user information easy secure and fast .And a user friendly User Interface helps to easily handle and hide up the complications in the application and provides to user a timetable management app with features that might be very useful in day-to-day life.*
 
+This helps in timetable management.
